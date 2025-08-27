@@ -1,0 +1,45 @@
+[
+  {
+    "title": "FPGA Wavetable Synthesizer",
+    "description": "Real-time polyphonic wavetable synth on a Xilinx FPGA with USB MIDI and 48kHz audio pipeline.",
+    "tags": ["FPGA", "Verilog", "DSP", "Audio"],
+    "repoUrl": "https://github.com/yourhandle/fpga-wavetable-synth",
+    "image": ""
+  },
+  {
+    "title": "Minimal RISC-V Core",
+    "description": "A compact RV32I 3-stage pipeline with hazard forwarding and Wishbone bus.",
+    "tags": ["RISC-V", "RTL", "Computer Architecture"],
+    "repoUrl": "https://github.com/yourhandle/riscv-core",
+    "image": ""
+  },
+  {
+    "title": "Software-Defined Radio Receiver",
+    "description": "OFDM demodulation chain with frequency/phase correction and soft decoding in C++/CUDA.",
+    "tags": ["SDR", "OFDM", "CUDA", "C++"],
+    "repoUrl": "https://github.com/yourhandle/sdr-ofdm",
+    "image": ""
+  },
+  {
+    "title": "Embedded RTOS Sensor Hub",
+    "description": "Bare-metal ARM Cortex-M RTOS with drivers, fixed-point filters, and BLE telemetry.",
+    "tags": ["Embedded", "RTOS", "C", "BLE"],
+    "repoUrl": "https://github.com/yourhandle/rtos-sensor-hub",
+    "image": ""
+  },
+  {
+    "title": "Robotics SLAM Module",
+    "description": "EKF-based visual-inertial SLAM prototype with loop closure and map optimization.",
+    "tags": ["Robotics", "SLAM", "C++", "EKF"],
+    "repoUrl": "https://github.com/yourhandle/slam-module",
+    "image": ""
+  },
+  {
+    "title": "Synchronous Buck Converter",
+    "description": "Power stage design with current-mode control and digital compensation.",
+    "tags": ["Power Electronics", "Control", "Hardware"],
+    "repoUrl": "https://github.com/yourhandle/buck-converter",
+    "image": ""
+  }
+]
+
